@@ -3,4 +3,4 @@ This repository is the Pytorch\DGL implementation of the [AMIGO paper](https://a
 
 
 # Note
-* We are currently in the process of code and data cleaning. Both will be ready by the CVPR23 Camera-Ready deadline (March 24, 2023). Stay tuned!
+* We are pending to wrap up a study prior to the release of this code. In the meantime, please feel free to contact us if you need to use this code.
